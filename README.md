@@ -6,4 +6,6 @@ Commands:
 
 * Creating repository: rails new react-app --webpack=react
 
-* ...
+* Create a Controller: rails g controller pages index
+
+
