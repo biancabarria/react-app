@@ -8,4 +8,6 @@ Commands:
 
 * Create a Controller: rails g controller pages index
 
+* Adding React Router and DOM: ./bin/webpack-dev-server 
+
 
