@@ -9,7 +9,7 @@ class App extends React.Component {
         return (
             <div>
                 <Switch>
-                    <Route exac path="/" component={Home} />
+                    <Route exac path="/home" component={Home} />
                     <Route exac path="/about" component={About} />
                     <Route exac path="/contact" component={Contact} />
                 </Switch>
